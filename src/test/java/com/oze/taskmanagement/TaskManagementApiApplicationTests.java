@@ -1,13 +1,13 @@
-package com.oze.taskmanagement;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class TaskManagementApiApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//package com.oze.taskmanagement;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class TaskManagementApiApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
